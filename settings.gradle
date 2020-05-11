@@ -1,0 +1,2 @@
+rootProject.name='LearningAndroidStudioFLOW'
+include ':app'
